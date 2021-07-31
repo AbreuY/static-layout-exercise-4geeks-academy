@@ -1,5 +1,5 @@
 # static-layout-exercise-4geeks-academy
-Apply the necessary styles to .wrapper, <header>, <nav> and <section> to make the website look like this:
+Apply the necessary styles to .wrapper, `<header>`, `<nav>` and `<section>` to make the website look like this:
 
 💡 Hint:
 Don't change anything on the HTML.
